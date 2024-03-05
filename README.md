@@ -49,13 +49,17 @@ This repository is the heart of my doctoral thesis, where I'm conducting a deep 
 
 ### Data Acquisition
 
-Interested parties can request data via email:
+Interested parties in complete data can request data via email:
 - <a href="mailto:biologist.mmf@gmail.com">biologist.mmf@gmail.com</a>
 - <a href="mailto:marilia.melo.favalesso@gmail.com">marilia.melo.favalesso@gmail.com</a>
 
 ## Repository Structure:
 
-Details on the repository's organization will be provided soon.
+- \data: Data (accuracy changed and sensitive data removed)
+- \images: Images resulting from the analyzes.
+- \scripts: R scritps with analysis of the chapters.
+- Dockerfile
+- requirements.R
 
 ## License
 [MIT License](LICENSE)
