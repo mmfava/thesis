@@ -53,7 +53,7 @@ Interested parties in complete data can request data via email:
 - <a href="mailto:biologist.mmf@gmail.com">biologist.mmf@gmail.com</a>
 - <a href="mailto:marilia.melo.favalesso@gmail.com">marilia.melo.favalesso@gmail.com</a>
 
-## Repository Structure:
+# Repository Structure
 
 - \data: Data (accuracy changed and sensitive data removed)
 - \images: Images resulting from the analyzes.
@@ -61,6 +61,6 @@ Interested parties in complete data can request data via email:
 - Dockerfile
 - requirements.R
 
-## License
+# License
 [MIT License](LICENSE)
 
