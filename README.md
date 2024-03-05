@@ -1,4 +1,4 @@
-# Eco-Epidemiology Research on Lonomism in South America
+# Eco-epidemiological Studies of Lonomia achelous Cramer 1777 and Lonomia obliqua Walker 1955 in South America
 
 This repository is the heart of my doctoral thesis, where I'm conducting a deep dive into the eco-epidemiology of Lonomia achelous and Lonomia obliqua envenomations (lonomism) in South America.  I'm analyzing data spanning six decades (1960-2020) to uncover risk factors, host-insect relationships, and the geographical spread of these venomous caterpillars.
 
