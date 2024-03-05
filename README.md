@@ -47,12 +47,6 @@ This repository is the heart of my doctoral thesis, where I'm conducting a deep 
 
 **Note**: While these instructions generally apply to Windows, macOS, and Linux, there may be minor variations in how to open a terminal or command prompt between these operating systems.
 
-### Data Acquisition
-
-Interested parties in complete data can request data via email:
-- <a href="mailto:biologist.mmf@gmail.com">biologist.mmf@gmail.com</a>
-- <a href="mailto:marilia.melo.favalesso@gmail.com">marilia.melo.favalesso@gmail.com</a>
-
 # Repository Structure
 
 - \data: Data (accuracy changed and sensitive data removed)
@@ -60,6 +54,12 @@ Interested parties in complete data can request data via email:
 - \scripts: R scritps with analysis of the chapters.
 - Dockerfile
 - requirements.R
+
+### Data Acquisition
+
+Interested parties in complete data can request data via email:
+- <a href="mailto:biologist.mmf@gmail.com">biologist.mmf@gmail.com</a>
+- <a href="mailto:marilia.melo.favalesso@gmail.com">marilia.melo.favalesso@gmail.com</a>
 
 # License
 [MIT License](LICENSE)
